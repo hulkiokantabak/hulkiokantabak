@@ -5,6 +5,7 @@ each with its own companion reading site, where the full text is read in the bro
 
 ### Books · Kitaplar
 
+- **[Çiziktirmeler](https://hulkiokantabak.github.io/ciziktirmeler/)** — *şiiri andıran yazılar.* A trilogy of Turkish poems, 1999–2020, woven with the author's own black-and-white photographs.
 - **[Olmayacak Şeyler Kitabı](https://hulkiokantabak.github.io/olmayacakseylerkitabi/)** — *Hakikaten Kısa Hikayeler.* 52 truly short Turkish stories, woven with the author's own photographs.
 - **[Forty-Nine Ways to Leave](https://hulkiokantabak.github.io/forty-nine-ways/)** — 49 short stories of departure, set along the Bosphorus (English & Turkish).
 - **[Letters of Arrival](https://hulkiokantabak.github.io/letters-of-arrival/)** — the epistolary answer: letters the characters wrote after the leaving.
