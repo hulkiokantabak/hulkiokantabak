@@ -15,5 +15,5 @@ each with its own companion reading site, where the full text is read in the bro
 
 ### Elsewhere
 
-- [hulkiokantabak.com](https://hulkiokantabak.github.io/hulkiokantabak.com/) — the hub
+- [hulkiokantabak.ai](https://hulkiokantabak.ai/) — the hub
 - Photography — [Saatchi Art](https://www.saatchiart.com/hulkiokantabak) · [Unsplash](https://unsplash.com/@hulkiokantabak)
